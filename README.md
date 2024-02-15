@@ -3,7 +3,7 @@
 This project is based on the following tutorial:
 https://www.youtube.com/watch?v=x4DydJKVvQk&list=PL3nPgdhXQtHfZwILWnQ3aDy_VdBtyZq-cP
 
-Covered Content For This App Tut
+Covered Content For This App Tutorial
 
 1. Custom Carousel Slider
 2. TabBar and TabBarView
